@@ -154,7 +154,7 @@ header {
 	margin-top: 80px;
 	text-align: center;
 	padding-bottom: 70px;
-	border-bottom: 20px solid black;
+	border-bottom: 1px solid black;
 }
 
 header button {
