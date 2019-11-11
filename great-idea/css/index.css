@@ -53,13 +53,8 @@ table {
 }
 
 html, body {
-<<<<<<< HEAD
-    height: auto;
-    font-family: georgia, 'Titillium Web', sans-serif;
-=======
     height: 100%;
 	font-family: 'Titillium Web', sans-serif;
->>>>>>> rabah-babaci1
 }
 
 h1, h2, h3, h4, h5 {
@@ -70,117 +65,6 @@ h1, h2, h3, h4, h5 {
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 .container {
-<<<<<<< HEAD
-	padding: 30px 60px;
-	height: 100%;
-	width: 70%;
-	margin: 0 auto;
-}
-.navigation {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
-.navigation nav {
-	display: flex;
-	width: 70%;
-	justify-content: space-between;
-	
-}
-.navigation a {
-	text-decoration: none;
-	color: #9DA1A0;
-}
-
-.services-header-img {
-	width: 100%;
-	padding: 30px 0;
-}
-.introduction {
-	padding-bottom: 35px;
-	border-bottom: 1px solid black;
-}
-.introduction h2 {
-	font-size: 30px;
-}
-.column {
-	background: #ececec;
-	border: 1px solid black;
-	width: 48%;
-	height: 270px;
-	padding: 30px 35px;
-	letter-spacing: 1px;
-}
-.column h2 {
-	font-size: 25px;
-}
-.main-content {
-	height: 950px;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	align-content: space-between;
-	border-bottom: 2px solid black;
-	padding: 35px 0 35px 0;
-}
-.btn {
-	font-size: 15px;
-    padding: 8px 17px;
-    border-radius: 6px;
-	margin-top: 25px;
-	box-shadow: 5px 7px #e0dada;
-}
-.footer {
-	display: flex;
-	margin: 35px 0;
-	line-height: 20px;
-	font-size: 18px;
-	justify-content: space-between;
-}
-.footer div {
-	width: 48%;
-}
-.footer-list {
-	margin-left: 17px;
-	line-height: 30px;
-	padding-top: 20px;
-}
-#footer-cp {
-	text-align: center;
-	padding-top: 50px;
-}
-.services-info-img {
-	width: 100%;
-	height: 100%;
-}
-header {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	margin-top: 80px;
-	text-align: center;
-	padding-bottom: 70px;
-	border-bottom: 1px solid black;
-}
-
-header button {
-	font-size: 16px;
-    padding: 5px 42px;
-}
-.right {
-	display: flex;
-	justify-content: flex-end;
-}
-h1 {
-	font-size: 80px;
-}
-
-.top {
-	display: flex;
-	justify-content: space-between;
-	
-	margin: 40px 0;
-=======
 	width: 1000px;
 	margin: 0 auto;
 	padding: 0 65px;
@@ -233,19 +117,10 @@ button {
 }
 .top-content div {
 	width: 47%;
->>>>>>> rabah-babaci1
 }
 .middle-img {
 	width: 100%;
 }
-<<<<<<< HEAD
-.bottom {
-	display: flex;
-	justify-content: space-between;
-	padding-top: 40px;
-	padding-bottom: 45px;
-	border-bottom: 1px solid black;
-=======
 
 .bottom-content {
 	display: flex;
@@ -255,26 +130,14 @@ button {
 }
 .bottom-content div {
 	width: calc( (100% / 3) - 1.6% );
->>>>>>> rabah-babaci1
 }
 footer {
 	display: flex;
 	flex-direction: column;
-<<<<<<< HEAD
-	padding: 40px 0;
-	line-height: 19px;
-}
-#copyright {
-	display: flex;
-	justify-content: center;
-	padding-top: 20px;
-	padding-bottom: 80px;
-=======
 	line-height: 20px;
 	padding-top: 40px;
 }
 #copyright {
 	align-self: center;
 	margin: 50px 0 120px 0;
->>>>>>> rabah-babaci1
 }
