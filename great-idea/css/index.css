@@ -74,6 +74,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
+	margin: 25px 0;
 }
 nav {
 	width: 70%;
@@ -140,4 +141,65 @@ footer {
 #copyright {
 	align-self: center;
 	margin: 50px 0 120px 0;
+}
+
+/* Services page */
+
+.services-header-img {
+	width: 100%;
+}
+.introduction {
+	border-bottom: 1px solid;
+	padding: 25px 0 35px 0;
+}
+.introduction h1 {
+	font-size: 25px;
+}
+.main-content {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	height: 830px;
+	align-content: space-between;
+	padding: 35px 0;
+	border-bottom: 2px solid;
+}
+.main-content div {
+	border: 1px solid;
+	height: 230px;
+	width: 48%;
+	padding: 20px 15px;
+	background: #F3F2F5;
+}
+.btn {
+	font-size: 10px;
+	padding: 8px 32px;
+	border-radius: 5px;
+	border: 1px solid;
+	margin-top: 25px;
+}
+
+section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top: 35px;
+}
+section div {
+	width: 48%;
+}
+section p {
+	line-height: 20px;
+}
+section ol {
+	margin: 20px 0 0 20px;
+	line-height: 30px;
+	list-style-type: square;
+}
+.services-info-img {
+	width: 48%;
+}
+#copyright2 {
+	padding: 80px 0 25px 0;
+	text-align: center;
 }
